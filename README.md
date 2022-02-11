@@ -1,6 +1,5 @@
 -Hi, I’m @nishant027
 -I’m interested in Blockchain business and designing.
--I’m going deep into blockchain and understanding its underlying principles.
 -"Life is just about remembring formulas and passing tests, its about going deep into underlying principles and to the root cause of a specific topic". 
 
 <!---
