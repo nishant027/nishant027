@@ -5,7 +5,7 @@ nishant027/nishant027 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-🔭 I’m currently brushing my Git and GitHub skill <br>👯 I’m looking to collaborate on core java projects<br>🤝 I’m looking for help with writing clean code<br>🌱 I’m currently learning JAVA
+🔭 I’m currently spending time in Hacker Rank <br>👯 I’m looking to collaborate on core java projects<br>🤝 I’m looking for help with writing clean code<br>🌱 I’m currently learning OOPs in JAVA
 
 
 ## 🌐 Socials:
